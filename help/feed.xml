@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru-RU"><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="https://flauncher.ru/help/feed.xml" rel="self" type="application/atom+xml" /><link href="https://flauncher.ru/help/" rel="alternate" type="text/html" hreflang="ru-RU" /><updated>2022-01-10T11:09:05+03:00</updated><id>https://flauncher.ru/help/feed.xml</id><title type="html">FLauncher помощь</title><subtitle>Помощь пользователям FLauncher (флаунчер) в решении вопросов по лаунчеру, проблем с лаунчером и разного рода игровых вопросов. Здесь вы можете найти ответы на большинство своих вопросов и проблем, а если что-то не найдётся, вы всегда сможете обратиться в поддержку лаунчера.</subtitle><entry><title type="html">Где найти скриншоты в FLauncher?</title><link href="https://flauncher.ru/help/gde-nayti-skrinshoty/" rel="alternate" type="text/html" title="Где найти скриншоты в FLauncher?" /><published>2022-01-10T00:00:00+03:00</published><updated>2022-01-10T00:00:00+03:00</updated><id>https://flauncher.ru/help/gde-nayti-skrinshoty</id><content type="html" xml:base="https://flauncher.ru/help/gde-nayti-skrinshoty/">&lt;p&gt;Чтобы открыть папку со скриншотами, вам нужно нажать на &lt;strong&gt;иконку с кружком и треугольником&lt;/strong&gt; рядом с кнопкой «Играть».&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&quot;image1.png&quot; alt=&quot;Как открыть папку со скриншотами в Flauncher&quot; /&gt;
+    &lt;figcaption&gt;Открываем папку со скриншотами&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;После нажатия, у вас откроется папка, где хранятся &lt;strong&gt;все ваши игровые скриншоты&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&quot;image2.png&quot; alt=&quot;Папка со скриншотами в FLauncher&quot; /&gt;
+    &lt;figcaption&gt;Папка со скриншотами&lt;/figcaption&gt;
+&lt;/figure&gt;</content><author><name></name></author><category term="Скриншоты" /><category term="Скрины" /><category term="Screenshots" /><category term="Screens" /><category term="Снимки экрана" /><summary type="html">Чтобы открыть папку со скриншотами, вам нужно нажать на иконку с кружком и треугольником рядом с кнопкой «Играть».</summary></entry><entry><title type="html">Как установить Forge на FLauncher?</title><link href="https://flauncher.ru/help/kak-ustanovit-forge/" rel="alternate" type="text/html" title="Как установить Forge на FLauncher?" /><published>2022-01-10T00:00:00+03:00</published><updated>2022-01-10T00:00:00+03:00</updated><id>https://flauncher.ru/help/kak-ustanovit-forge</id><content type="html" xml:base="https://flauncher.ru/help/kak-ustanovit-forge/">&lt;p&gt;&lt;strong&gt;Сразу хотим сказать, что новых версий Forge (1.12.2+) в лаунчере пока нет, и установить их вручную тоже, к сожалению, не получится.&lt;/strong&gt;
+&lt;strong&gt;Мы уже работаем над добавлением и поддержкой новых версий Forge.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;установка-forge&quot;&gt;Установка Forge&lt;/h4&gt;
+
+&lt;p&gt;Для начала нужно открыть окно &lt;strong&gt;добавления клиента&lt;/strong&gt;&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;image1.png&quot; alt=&quot;Открытие окна с клиентами в FLauncher&quot; /&gt;
+&lt;figcaption&gt;Открытие окна с клиентами&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Теперь необходимо перейти во вкладку &lt;strong&gt;«Добавить клиент с Forge»&lt;/strong&gt;&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;image2.png&quot; alt=&quot;Окно с клиентами Forge в FLauncher&quot; /&gt;
+&lt;figcaption&gt;Окно с клиентами Forge&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Далее вам нужно будет &lt;strong&gt;навести на нужную версию, и нажать на кнопку загрузки&lt;/strong&gt;. После этого клиент начнёт скачиваться и &lt;strong&gt;автоматически установится&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;image3.png&quot; alt=&quot;Установка Forge в FLauncher&quot; /&gt;
+&lt;figcaption&gt;Загрузка Forge&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;После установки, ваш клиент будет &lt;strong&gt;автоматически выбран в списке доступных клиентов&lt;/strong&gt;. Вам нужно &lt;strong&gt;запустить его один раз&lt;/strong&gt; перед установкой модов, чтобы появились все нужные папки. &lt;strong&gt;Если вы не запустите его&lt;/strong&gt;, папка mods и другие нужные папки не появятся.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;image4.png&quot; alt=&quot;Forge в списке клиентов&quot; /&gt;
+&lt;figcaption&gt;Выбранный Forge в списке клиентов&lt;/figcaption&gt;
+&lt;/figure&gt;</content><author><name></name></author><category term="Моды" /><category term="Forge" /><category term="Mods" /><category term="Фордж" /><category term="Форж" /><summary type="html">Сразу хотим сказать, что новых версий Forge (1.12.2+) в лаунчере пока нет, и установить их вручную тоже, к сожалению, не получится. Мы уже работаем над добавлением и поддержкой новых версий Forge.</summary></entry><entry><title type="html">Как установить свою сборку на FLauncher?</title><link href="https://flauncher.ru/help/kak-ustanovit-sborku/" rel="alternate" type="text/html" title="Как установить свою сборку на FLauncher?" /><published>2022-01-10T00:00:00+03:00</published><updated>2022-01-10T00:00:00+03:00</updated><id>https://flauncher.ru/help/kak-ustanovit-sborku</id><content type="html" xml:base="https://flauncher.ru/help/kak-ustanovit-sborku/">&lt;p&gt;&lt;strong&gt;Перед тем как устанавливать сборку, вам нужно установить Forge &lt;a href=&quot;/help/kak-ustanovit-forge/&quot; target=&quot;_blank&quot;&gt;по этой инструкции&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;После того как установите Forge, можно переходить непосредственно к установке сборки&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;установка-сборки&quot;&gt;Установка сборки&lt;/h4&gt;
+
+&lt;p&gt;Для начала, вам нужно &lt;strong&gt;выбрать Forge клиент&lt;/strong&gt; в списке, и открыть папку &lt;strong&gt;mods&lt;/strong&gt; нажатием на &lt;strong&gt;иконку с тремя кубиками&lt;/strong&gt; рядом с кнопкой «Играть».&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&quot;image5.png&quot; alt=&quot;Как открыть папку mods в Flauncher&quot; /&gt;
+    &lt;figcaption&gt;Как открыть папку mods&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Когда откроется папка &lt;strong&gt;mods&lt;/strong&gt;, вы должны будете найти в архиве с вашей сборкой &lt;strong&gt;такую же папку&lt;/strong&gt;, и перенести &lt;strong&gt;все моды из неё&lt;/strong&gt; в папку mods лаунчера.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&quot;image1.png&quot; alt=&quot;Как установить свою сборку на FLauncher?&quot; /&gt;
+    &lt;figcaption&gt;Переносим моды из архива со сборкой в папку mods&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Если у вас в сборке есть конфиги, следует перенести и их в папку &lt;strong&gt;minecraft&lt;/strong&gt;&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&quot;image2.png&quot; alt=&quot;Как установить свою сборку на FLauncher?&quot; /&gt;
+    &lt;figcaption&gt;Переносим конфиги из архива со сборкой в папку minecraft&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Вот и всё. Теперь &lt;strong&gt;выбираем Forge&lt;/strong&gt; в списке клиентов и &lt;strong&gt;запускаем игру&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&quot;image4.png&quot; alt=&quot;Как установить свою сборку на FLauncher?&quot; /&gt;
+    &lt;figcaption&gt;Запускаем клиент Forge&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;После запуска, вы увидите главное меню, где показано количество установленных модов и основная информация о клиенте.&lt;br /&gt;
+Всё что остаётся, зайти в одиночную игру и начать играть.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&quot;image3.png&quot; alt=&quot;Как установить свою сборку на FLauncher?&quot; /&gt;
+    &lt;figcaption&gt;Сборка успешно установлена&lt;/figcaption&gt;
+&lt;/figure&gt;</content><author><name></name></author><category term="Modpacks" /><category term="Сборки" /><category term="Моды" /><summary type="html">Перед тем как устанавливать сборку, вам нужно установить Forge по этой инструкции После того как установите Forge, можно переходить непосредственно к установке сборки</summary></entry><entry><title type="html">Хочу предложить чит или сборку для добавления в лаунчер</title><link href="https://flauncher.ru/help/hochu-predlozhit-chit-ili-sborku/" rel="alternate" type="text/html" title="Хочу предложить чит или сборку для добавления в лаунчер" /><published>2020-08-10T00:00:00+03:00</published><updated>2020-08-10T00:00:00+03:00</updated><id>https://flauncher.ru/help/hochu-predlozhit-chit-ili-sborku</id><content type="html" xml:base="https://flauncher.ru/help/hochu-predlozhit-chit-ili-sborku/">&lt;p&gt;Можете предложить свои читы/сборки написав нам в отдельное обсуждение &lt;a href=&quot;https://vk.com/topic-151427005_35733006&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;группы ВКонтакте (кликните сюда)&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="Хочу предложить" /><category term="предложение" /><category term="чит" /><category term="сборка" /><category term="сборку" /><summary type="html">Можете предложить свои читы/сборки написав нам в отдельное обсуждение группы ВКонтакте (кликните сюда).</summary></entry><entry><title type="html">Как изменить язык в чите</title><link href="https://flauncher.ru/help/kak-izmenit-yazik-v-chite/" rel="alternate" type="text/html" title="Как изменить язык в чите" /><published>2020-08-10T00:00:00+03:00</published><updated>2020-08-10T00:00:00+03:00</updated><id>https://flauncher.ru/help/kak-izmenit-yazik-v-chite</id><content type="html" xml:base="https://flauncher.ru/help/kak-izmenit-yazik-v-chite/">&lt;p&gt;Изменить язык конкретно в чите &lt;strong&gt;невозможно&lt;/strong&gt; (чтобы функции и меню чита были на русском). Изменить язык можно только у самой игры, что повлечёт за собой баги и другие ошибки. Например, может пропасть текст в меню. При использовании читов рекомендуем оставлять &lt;strong&gt;только английский язык&lt;/strong&gt;.&lt;/p&gt;</content><author><name></name></author><category term="Язык" /><category term="русский язык" /><category term="чит" /><category term="в чите" /><category term="язык в чите" /><category term="как изменить язык" /><category term="поменять язык" /><summary type="html">Изменить язык конкретно в чите невозможно (чтобы функции и меню чита были на русском). Изменить язык можно только у самой игры, что повлечёт за собой баги и другие ошибки. Например, может пропасть текст в меню. При использовании читов рекомендуем оставлять только английский язык.</summary></entry><entry><title type="html">Как обновить драйвера для видеокарты</title><link href="https://flauncher.ru/help/kak-obnovit-drayvera-dlya-videokarty/" rel="alternate" type="text/html" title="Как обновить драйвера для видеокарты" /><published>2020-08-10T00:00:00+03:00</published><updated>2020-08-10T00:00:00+03:00</updated><id>https://flauncher.ru/help/kak-obnovit-drayvera-dlya-videokarty</id><content type="html" xml:base="https://flauncher.ru/help/kak-obnovit-drayvera-dlya-videokarty/">&lt;h4 id=&quot;обновление-дрейверов-для-ноутбука-и-пк&quot;&gt;Обновление дрейверов для ноутбука и ПК&lt;/h4&gt;
+
+&lt;p&gt;Вам нужно зайти в диспетчер устройств и через него обновить драйвера для видеокарты.&lt;/p&gt;
+
+&lt;p&gt;Подробная инструкция по обновлению находится &lt;a href=&quot;https://www.icover.ru/wiki/kompyutery-noutbuki-periferiya/noutbuki/kak-obnovit-drayvera-na-noutbuke/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;тут (кликните по этому тексту)&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4 id=&quot;обновление-драйверов-для-пк&quot;&gt;Обновление драйверов для ПК&lt;/h4&gt;
+
+&lt;p&gt;Для начала, вам нужно узнать какая у вас в компьютере видеокарта и найти драйвера для неё на сайте производителя.&lt;/p&gt;
+
+&lt;p&gt;Узнать какая видеокарта можно по &lt;a href=&quot;https://remontka.pro/kakaya-videokarta/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;этой инструкции (кликните на текст)&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h5 id=&quot;если-у-вас-видеокарта-nvidia&quot;&gt;Если у вас видеокарта NVIDIA&lt;/h5&gt;
+
+&lt;p&gt;Найти драйвер можно &lt;a href=&quot;https://nvidia.ru/Download/index.aspx?lang=ru&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;тут (кликните по тексту)&lt;/a&gt; (необходимо выбрать модель и серию вашей видеокарты).&lt;/p&gt;
+
+&lt;h5 id=&quot;если-видеокарта-amd-radeon&quot;&gt;Если видеокарта AMD (Radeon)&lt;/h5&gt;
+
+&lt;p&gt;Вы можете скачать программу для автоматической установки драйверов по &lt;a href=&quot;https://drivers.amd.com/drivers/installer/19.30/beta/radeon-software-adrenalin-2019-19.9.3-minimalsetup-190930_web.exe&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;этой ссылке (кликните на текст)&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h5 id=&quot;если-у-вас-графика-от-intel-intel-hd-graphics&quot;&gt;Если у вас графика от Intel (Intel HD Graphics).&lt;/h5&gt;
+
+&lt;p&gt;Для обновления драйверов встроенной графики скачайте &lt;a href=&quot;https://intel.ru/content/www/ru/ru/support/detect.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;эту программу (кликните на текст)&lt;/a&gt; и следуйте рекомендациям, которые в ней будут отображаться.&lt;/p&gt;</content><author><name></name></author><category term="Видеокарта" /><category term="драйвера" /><category term="как обновить" /><category term="установить драйвера" /><category term="установка драйверов" /><category term="обновление драйверов" /><summary type="html">Обновление дрейверов для ноутбука и ПК</summary></entry><entry><title type="html">Как открыть папку с ресурспаками/текстурпаками</title><link href="https://flauncher.ru/help/kak-otkryt-papku-s-resurspakami/" rel="alternate" type="text/html" title="Как открыть папку с ресурспаками/текстурпаками" /><published>2020-08-10T00:00:00+03:00</published><updated>2020-08-10T00:00:00+03:00</updated><id>https://flauncher.ru/help/kak-otkryt-papku-s-resurspakami</id><content type="html" xml:base="https://flauncher.ru/help/kak-otkryt-papku-s-resurspakami/">&lt;p&gt;Нажмите на &lt;strong&gt;иконку с кисточкой&lt;/strong&gt;, рядом с кнопкой “Играть”.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;image28.png&quot; alt=&quot;Как открыть папку с ресурспаками/текстурпаками&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;После нажатия на кнопку у вас откроется папка с ресурспаками, куда вы можете устанавливать любые ресурспаки/текстурпаки.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;image23.png&quot; alt=&quot;Как открыть папку с ресурспаками/текстурпаками&quot; /&gt;
+&lt;/figure&gt;</content><author><name></name></author><category term="Ресурспаки" /><category term="Текстурпаки" /><category term="Папка с ресурспаками" /><category term="Папка с текстурпаками" /><summary type="html">Нажмите на иконку с кисточкой, рядом с кнопкой “Играть”.</summary></entry><entry><title type="html">Как выделить игре больше памяти</title><link href="https://flauncher.ru/help/kak-videlyt-igre-bolshe-pamyati/" rel="alternate" type="text/html" title="Как выделить игре больше памяти" /><published>2020-08-10T00:00:00+03:00</published><updated>2020-08-10T00:00:00+03:00</updated><id>https://flauncher.ru/help/kak-videlyt-igre-bolshe-pamyati</id><content type="html" xml:base="https://flauncher.ru/help/kak-videlyt-igre-bolshe-pamyati/">&lt;p&gt;Зайдите в настройки лаунчера.&lt;br /&gt;
+Нужно нажать на &lt;strong&gt;иконку шестерёнки&lt;/strong&gt; в правом нижнем углу.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;image15.png&quot; alt=&quot;Как выделить игре больше памяти&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;После нажатия, у вас откроется окно с настройками. В этом окне будет ползунок, и над ним надпись “Выделение оперативной памяти”. Вам нужно передвинуть ползунок вправо до значения, при котором перестанет вылетать/лагать игра.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;image37.png&quot; alt=&quot;Как выделить игре больше памяти&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;Важно!&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;Если у вас максимальное число памяти меньше 2048, игра может работать нестабильно и вылетать, особенно с модами.&lt;/strong&gt;&lt;/p&gt;</content><author><name></name></author><category term="Оперативная память" /><category term="память" /><category term="как выделить больше памяти" /><category term="ОЗУ" /><category term="RAM" /><category term="памяти" /><summary type="html">Зайдите в настройки лаунчера. Нужно нажать на иконку шестерёнки в правом нижнем углу.</summary></entry><entry><title type="html">Не запускается чит Sigma 5.0</title><link href="https://flauncher.ru/help/ne-zapuskaetsya-sigma-5-0/" rel="alternate" type="text/html" title="Не запускается чит Sigma 5.0" /><published>2020-08-10T00:00:00+03:00</published><updated>2020-08-10T00:00:00+03:00</updated><id>https://flauncher.ru/help/ne-zapuskaetsya-sigma-5-0</id><content type="html" xml:base="https://flauncher.ru/help/ne-zapuskaetsya-sigma-5-0/">&lt;p&gt;Для начала проверьте, запускаются ли другие читы. Если да, значит у вас 32-х битная система, на которой чит не работает.&lt;/p&gt;
+
+&lt;p&gt;Данный чит поддерживается на х64 архитектуре системы. Если у вас х32 (х86) система, то вы не сможете запустить чит. Увы, но так решили разработчики чита (или просто не подумали об этом).&lt;/p&gt;</content><author><name></name></author><category term="Sigma" /><category term="sigma 5.0" /><category term="не запускается чит" /><category term="не запускается sigma" /><category term="не запускается" /><category term="не работает чит" /><category term="не работает" /><category term="чит sigma" /><summary type="html">Для начала проверьте, запускаются ли другие читы. Если да, значит у вас 32-х битная система, на которой чит не работает.</summary></entry><entry><title type="html">Как установить карты на FLauncher?</title><link href="https://flauncher.ru/help/kak-ustanovit-karty-na-flauncher/" rel="alternate" type="text/html" title="Как установить карты на FLauncher?" /><published>2020-05-09T00:00:00+03:00</published><updated>2020-05-09T00:00:00+03:00</updated><id>https://flauncher.ru/help/kak-ustanovit-karty-na-flauncher</id><content type="html" xml:base="https://flauncher.ru/help/kak-ustanovit-karty-na-flauncher/">&lt;p&gt;Заходим в лаунчер и нажимаем на &lt;strong&gt;иконку папки&lt;/strong&gt; рядом с настройками.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;image24.png&quot; alt=&quot;Как установить карты на FLauncher?&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;После нажатия у вас открылась папка.&lt;br /&gt;
+Здесь вам необходимо перейти в папку &lt;strong&gt;clients&lt;/strong&gt;, потом в &lt;strong&gt;vanilla&lt;/strong&gt; и после этого в папку &lt;strong&gt;minecraft&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;image15.png&quot; alt=&quot;Как установить карты на FLauncher?&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Находим папку &lt;strong&gt;saves&lt;/strong&gt; и заходим в неё.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;image19.png&quot; alt=&quot;Как установить карты на FLauncher?&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;В эту папку вы можете &lt;strong&gt;скидывать карты&lt;/strong&gt;.&lt;br /&gt;
+Скачайте понравившуюся карту, распакуйте архив с ней, и &lt;strong&gt;переместите содержимое архива в папку saves&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;image1.png&quot; alt=&quot;Как установить карты на FLauncher?&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Теперь запустите игру, перейдите в &lt;strong&gt;одиночную игру&lt;/strong&gt; и вы увидите добавленную карту.&lt;/p&gt;</content><author><name></name></author><category term="Карты" /><category term="maps" /><category term="saves" /><category term="установка карт" /><category term="установить карту" /><category term="карту" /><summary type="html">Заходим в лаунчер и нажимаем на иконку папки рядом с настройками.</summary></entry></feed>
